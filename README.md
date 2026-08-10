@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="cxx signal desk - building useful things" />
+  <img src="./assets/header.svg" width="100%" alt="Nullwave signal desk - building useful things" />
 </p>
 
-<h1 align="center">Hi, I'm cxx.</h1>
+<h1 align="center">Hi, I'm Nullwave.</h1>
 
 <p align="center">
   <strong>I turn ambitious ideas into products that run, feel good, and ship.</strong>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/928422955?tab=followers">
-    <img alt="Follow cxx on GitHub" src="https://img.shields.io/github/followers/928422955?label=Follow&amp;style=flat-square&amp;color=ff6b5e&amp;labelColor=11151a" />
+    <img alt="Follow Nullwave on GitHub" src="https://img.shields.io/github/followers/928422955?label=Follow&amp;style=flat-square&amp;color=ff6b5e&amp;labelColor=11151a" />
   </a>
   <img alt="AI product engineering" src="https://img.shields.io/badge/AI-product_engineering-67e8d2?style=flat-square&amp;labelColor=11151a" />
   <img alt="Real-time media" src="https://img.shields.io/badge/real--time-media-f7d154?style=flat-square&amp;labelColor=11151a" />
@@ -22,7 +22,7 @@
 ### Current transmission
 
 ```ts
-const cxx = {
+const nullwave = {
   focus: [
     "AI products",
     "real-time media",
