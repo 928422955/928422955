@@ -23,23 +23,36 @@
 
 ```ts
 const cxx = {
-  focus: ["AI products", "real-time media", "desktop experiences"],
-  workingWith: ["TypeScript", "Vue", "React", "C++", "C", "Bun"],
-  operatingMode: "logs > guesses; shipped > perfect",
+  focus: [
+    "AI products",
+    "real-time media",
+    "desktop experiences",
+  ],
+  operatingMode: {
+    default: "logs > guesses",
+    finish: "shipped > perfect",
+  },
 };
 ```
 
 ### What I build
 
-| `SIGNAL 01` | `SIGNAL 02` | `SIGNAL 03` |
-| --- | --- | --- |
-| **AI product systems** | **Live media tooling** | **Desktop software** |
-| Agent workflows, tool-use experiences, and the product layers around them. | Streaming pipelines, OBS integrations, and audio/video infrastructure. | Fast, durable apps that make complicated work feel straightforward. |
+> **`SIGNAL 01` · AI product systems**
+>
+> Agent workflows, tool-use experiences, and the product layers around them.
+
+> **`SIGNAL 02` · Live media tooling**
+>
+> Streaming pipelines, OBS integrations, and audio/video infrastructure.
+
+> **`SIGNAL 03` · Desktop software**
+>
+> Fast, durable apps that make complicated work feel straightforward.
 
 ### Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,react,vue,cpp,c,python,electron,docker,postgres,git&amp;theme=dark&amp;perline=13" alt="TypeScript, JavaScript, Bun, Node.js, React, Vue, C++, C, Python, Electron, Docker, PostgreSQL, and Git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,react,vue,cpp,c,python,electron,docker,postgres,git&amp;theme=dark&amp;perline=7" alt="TypeScript, JavaScript, Bun, Node.js, React, Vue, C++, C, Python, Electron, Docker, PostgreSQL, and Git" />
 </p>
 
 ### Contribution signal
